@@ -1,4 +1,4 @@
-# vue2-lex-filters [![Build Status](https://travis-ci.org/freearhey/vue2-lex-filters.svg?branch=master)](https://travis-ci.org/freearhey/vue2-lex-filters)
+# vue2-lex-filters
 
 The list of standard filters Vue.js 1.* adapted for use in Vue.js 2.*
 
@@ -28,9 +28,9 @@ npm install vue2-lex-filters
 When used with a module system, you must explicitly install the filters via `Vue.use()`:
 ```js
 import Vue from 'vue'
-import Vue2Filters from 'vue2-lex-filters'
+import LexFilters from 'vue2-lex-filters'
 
-Vue.use(Vue2Filters)
+Vue.use(LexFilters)
 ```
 You don't need to do this when using global script tags.
 
