@@ -1,4 +1,4 @@
-# vue2-lex-filters [![Build Status](https://travis-ci.org/freearhey/vue2-filters.svg?branch=master)](https://travis-ci.org/freearhey/vue2-filters)
+# vue2-lex-filters [![Build Status](https://travis-ci.org/freearhey/vue2-lex-filters.svg?branch=master)](https://travis-ci.org/freearhey/vue2-lex-filters)
 
 The list of standard filters Vue.js 1.* adapted for use in Vue.js 2.*
 
@@ -6,29 +6,29 @@ The list of standard filters Vue.js 1.* adapted for use in Vue.js 2.*
 
 ### Direct include
 
-Simply include `vue2-filters` after Vue and it will install itself automatically:
+Simply include `vue2-lex-filters` after Vue and it will install itself automatically:
 
 ```html
 <script src="vue.js"></script>
-<script src="vue2-filters.min.js"></script>
+<script src="vue2-lex-filters.min.js"></script>
 ```
 
 ### CDN
 
 ```html
 <script src="https://unpkg.com/vue/dist/vue.js"></script>
-<script src="https://cdn.jsdelivr.net/vue2-filters/0.1.9/vue2-filters.min.js"></script>
+<script src="https://cdn.jsdelivr.net/vue2-lex-filters/0.1.9/vue2-lex-filters.min.js"></script>
 ```
 
 ### NPM
 
 ```
-npm install vue2-filters
+npm install vue2-lex-filters
 ```
 When used with a module system, you must explicitly install the filters via `Vue.use()`:
 ```js
 import Vue from 'vue'
-import Vue2Filters from 'vue2-filters'
+import Vue2Filters from 'vue2-lex-filters'
 
 Vue.use(Vue2Filters)
 ```
@@ -193,7 +193,7 @@ You don't need to do this when using global script tags.
 
 ## Contribution
 
-If you find a bug or want to contribute to the code or documentation, you can help by submitting an [issue](https://github.com/freearhey/vue2-filters/issues) or a [pull request](https://github.com/freearhey/vue2-filters/pulls).
+If you find a bug or want to contribute to the code or documentation, you can help by submitting an [issue](https://github.com/freearhey/vue2-lex-filters/issues) or a [pull request](https://github.com/freearhey/vue2-lex-filters/pulls).
 
 ## License
 
